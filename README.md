@@ -10,15 +10,10 @@
 
 ---
 
-- 🔭 I’m currently working on **multi-display 7-segment interfacing projects** with switches and pattern logics.
 - 🌱 Learning through:
-  - edX Embedded Systems Course
-  - Online IoT Internship (7–9 PM)
+  - Embedkari's Embedded systems and IoT course
   - Arduino Tutorials & TinkerCAD Simulations
-- 💡 Recently explored:
-  - System Calls in OS
-  - Pipelining in Computer Architecture
-  - Memory Segmentation in C
+
 - ✍️ I share my technical writeups on [Embedkari](https://embedkari.org/profile/puneeth_peddeti/?profiletab=posts)
 - 📫 Reach me at **puneeth.peddeti@gmail.com**
 - 🌐 All my work & code is on [GitHub](https://github.com/PuneethPeddeti)
