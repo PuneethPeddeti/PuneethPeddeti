@@ -51,13 +51,6 @@
 - ✔️ OS Internals (System Calls, Memory Management)  
 - ✔️ Computer Architecture (Pipelining, IO Bus Structures)  
 - 🧩 GATE Aptitude | Data Structures | Communication Skills  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PuneethPeddeti&show_icons=true&locale=en&theme=radical" alt="Puneeth's stats" />
-</p>
-
 ---
 
 > “Code. Debug. Break. Fix. Learn. Repeat.” – My daily cycle as I dive into embedded innovation.
